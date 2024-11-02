@@ -1,0 +1,1 @@
+"""the strategy behind this will be simple, we will be finding the lowest price point for the last year on chart of daily basis, now if the """
